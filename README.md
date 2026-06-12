@@ -6,7 +6,7 @@ I am a 3rd-year Information Security student dedicated to exploring system vulne
 - 🏫 **Education:** Studying Information Security 
 - 🎯 **Current Focus:** Enhancing knowledge in Network Security, Reverse Engineering, and Linux environments.
 - 💬 **Ask me about:** C/C++, Python programming, and security configurations.
-- 📫 **How to reach me:** [nvo029566@gmail.com]
+- 📫 **How to reach me:** [nvo029566@gmail.com](mailto:nvo029566@gmail.com)
 
 ---
 
